@@ -1,4 +1,8 @@
 # Ruby on Rails Tutorial sample application
+> This project is the Ruby on Rails tutorial start. It's goal is to teach how to create an initialize a Ruby on Rails project
+> and how to configure routes for the first time.
+
+![screenshot](screenshots/sample-app.png)
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
